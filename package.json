@@ -1,0 +1,28 @@
+{
+  "name": "eleme-dom-animator",
+  "version": "0.0.1",
+  "description": "A dom animator component customized for eleme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HopeLyn/eleme-dom-animator.git"
+  },
+  "bugs": "https://github.com/HopeLyn/eleme-dom-animator/issues",
+  "authors": [
+    "Lyn"
+  ],
+  "license": "MIT",
+  "tags": [
+    "react",
+    "dom animator",
+    "eleme"
+  ],
+  "keywords": [
+    "react",
+    "react-component",
+    "dom animator",
+    "eleme"
+  ],
+  "perDependencies": {
+    "react": "^15.0.1"
+  }
+}
