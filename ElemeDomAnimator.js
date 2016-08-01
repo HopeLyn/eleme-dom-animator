@@ -2,6 +2,11 @@ var React = require('react');
 var DomAnimator = require('./domAnimator.src');
 
 var ElemeDomAnimator = React.createClass({
+  shouldComponentUpdate(){
+    // This component shouldn't update in any time.
+    return false;
+  },
+
   render: function() {
     const domAnimator = new DomAnimator();
 
